@@ -2,11 +2,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&animation=fadeIn" />
 </p> -->
-<h3 align="center">👩🏻‍💻 About Me</h3>
-<p align="center">
+## 👩🏻‍💻 About Me
   세종대학교(Sejong University)<br>
   무인이동체공학전공 (Unmanned Vehicle Engineering)
-</p>
 
 ---
 

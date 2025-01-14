@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&animation=fadeIn" />
 </p> -->
-# Hi! I'm JonghyeokNam👋
+# Hi! I'm Jonghyeok👋
 
 ## 👩🏻‍💻 About Me
   세종대학교(Sejong University)<br>

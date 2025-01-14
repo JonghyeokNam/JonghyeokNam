@@ -1,8 +1,7 @@
-<!-- 상단 배너 등 이미지를 사용하고 싶다면 자유롭게 추가 가능합니다. -->
+<!-- 상단 배너 등 이미지를 사용하고 싶다면 자유롭게 추가 가능합니다. 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome!&fontSize=50&fontAlign=50&animation=fadeIn" />
-</p>
-
+</p> -->
 <h3 align="center">👩🏻‍💻 About Me</h3>
 <p align="center">
   세종대학교(Sejong University)<br>

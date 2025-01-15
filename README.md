@@ -61,6 +61,16 @@
 
 ---
 
+## 📫 Contact
+
+<!-- Instagram -->
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_ID)
+
+<!-- Naver Email -->
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:YOUR_NAVER_EMAIL@naver.com)
+
+---
+
 ## Most Used Languages & Stats
 <p>
   <!-- 이 부분에서 YOUR_GITHUB_USERNAME 부분을 자신의 GitHub 아이디로 변경해주세요 -->
@@ -76,11 +86,6 @@
 ---
 
 <!-- 하단에 한 줄 소개나 연락처/블로그 정보 등을 배치할 수도 있습니다. -->
-## 📫 Contact
-
-<!-- Instagram -->
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nam_jjong99)
-
-<!-- Naver Email -->
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:njh9750@naver.com)
-
+<p align="center">
+  <b>Thank you for visiting!</b>
+</p>

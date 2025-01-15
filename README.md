@@ -76,6 +76,11 @@
 ---
 
 <!-- 하단에 한 줄 소개나 연락처/블로그 정보 등을 배치할 수도 있습니다. -->
-<p align="center">
-  <b>Thank you for visiting!</b>
-</p>
+## 📫 Contact
+
+<!-- Instagram -->
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nam_jjong99)
+
+<!-- Naver Email -->
+[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:njh9750@naver.com)
+

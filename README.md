@@ -5,8 +5,8 @@
 # Hi! I'm Jonghyeok👋
 
 ## 👩🏻‍💻 About Me
-  세종대학교(Sejong University)<br>
-  무인이동체공학전공 (Unmanned Vehicle Engineering)
+- 세종대학교(Sejong University)<br>
+- 무인이동체공학전공 (Unmanned Vehicle Engineering)
 
 ---
 

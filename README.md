@@ -72,9 +72,9 @@
 
   <!-- 이 부분에서 YOUR_GITHUB_USERNAME 부분을 자신의 GitHub 아이디로 변경해주세요 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghyeokNam&layout=compact&theme=algolia" />
-<br>
+<br></br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=njh9750)](https://solved.ac/njh9750/)
-<br>
+<br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=JonghyeokNam&show_icons=true&theme=tokyonight" />    
 
 

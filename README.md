@@ -71,7 +71,7 @@
 ## Most Used Languages & Stats
 
   <!-- 이 부분에서 YOUR_GITHUB_USERNAME 부분을 자신의 GitHub 아이디로 변경해주세요 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thundevistan)](https://solved.ac/thundevistan/)  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghyeokNam&layout=compact&theme=algolia" />
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=njh9750)](https://solved.ac/njh9750/)&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonghyeokNam&layout=compact&theme=algolia" />
 <img src="https://github-readme-stats.vercel.app/api?username=JonghyeokNam&show_icons=true&theme=tokyonight" />    
 
 

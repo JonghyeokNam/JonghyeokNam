@@ -19,7 +19,8 @@
 ---
 
 ## 🏆 수상 경력
-- ALOM 13기 앱 프로젝트 대상 수상 (팀명 : 밋팀)
+- `2024` ALOM 13기 앱 프로젝트 대상 수상 (팀명 : 밋팀)
+- `2025` 새싹 MSA 기반 풀스택 전문가 양성과정 최종 프로젝트 대상 수상 (팀명 : 양은냄비)
 
 ---
 
@@ -45,6 +46,8 @@
 
 ### Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![Github Actions]([https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white
+))
 
 
 ### Frontend
